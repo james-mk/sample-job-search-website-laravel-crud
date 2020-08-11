@@ -1,0 +1,69 @@
+*{
+	padding: 0;
+	margin:0;
+}
+body{
+	background-color:rgb(238, 238, 245);
+	
+}
+
+/*.btn{
+	border:none !important;
+	border-radius:0 !important;
+}
+*/
+.jumbotron {
+	background: url('/img/woman.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center fixed;
+	height: 700px;
+	color: indigo;
+	font-weight: bolder !important;
+	
+}
+.jumbotron p {
+	color: #000;
+}
+.fpb {
+	background-color: coral;
+	color: white;
+	border-radius: 25px;
+	border: none;
+	width: 50%;
+	padding: 10px;
+}
+.nav-link {
+	color: #fff !important;
+
+}
+.nav-link:hover {
+	color: yellow !important;
+}
+.navbar-brand{
+	color: yellow !important;
+
+}
+.application-div{
+	background-color:#ff6f00 !important;
+	color:#fff;
+}
+
+.application-button{
+	
+	background-color:blue;
+	border:none;
+	border-radius:0;
+	
+}
+
+.job-headings,thead{
+	color:#37474f;
+	font-weight:bold;
+}
+
+
+
+
+
+
